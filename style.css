@@ -1,0 +1,31 @@
+body {
+  background-color: #fbecec; /* Halka Pink Background */
+  font-family: Comic Sans, Cursive;
+}
+
+h1 {
+  color: #ff1493; /* bright pink heading */
+  text-align: center;
+  text-shadow: 2px 2px 5px gray;
+}
+
+p {
+  color: #333;
+  font-size: 18px;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px #aaa;
+}
+
+a {
+  background: #f44500;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 28px;
+  text-decoration: none;
+}
+
+a:hover {
+  background: #f6347; /* hover pe thoda light color */
+}
